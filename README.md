@@ -1,0 +1,50 @@
+# CKA 준비하기 
+
+- 응시 목표일 3/30일 
+- 기본 규칙:
+  - 매일 1시간은 확보한다. 강의 내용 30분 이상
+  - 공부한 내용은 그날 정리하기. 
+
+## 학습 목표(수정 필요) 
+- [ ] 2/18 core concepts(cluster,etcd,kube-api,kube-controller manager, scheduler, kubelet, kube proxy)
+- [ ] 2/19 core concepts(pods,replicaset,deployment)
+- [ ] 2/20 core concepts(services)
+- [ ] 2/21 core concepts(namespaces/imeratives vs declarative)
+- [ ] 2/22 core concepts(kubectl apply, recap)
+- [ ] 2/23 core concepts(jump to schedulering) 
+- [ ] 2/24 core concepts
+- [ ] 2/25 scheduling
+- [ ] 2/26 scheduling
+- [ ] 2/27 scheduling
+- [ ] 2/28 scheduling
+- [ ] 3/01 scheduling
+- [ ] 3/02 scheduling
+- [ ] 3/03 logging & monitoring
+- [ ] 3/04 application lifecycle management
+- [ ] 3/05 application lifecycle management
+- [ ] 3/06 application lifecycle management
+- [ ] 3/07 application lifecycle management
+- [ ] 3/08 application lifecycle management
+- [ ] 3/09 cluster maintenance
+- [ ] 3/10 cluster maintenance
+- [ ] 3/11 cluster maintenance
+- [ ] 3/12 cluster maintenance
+- [ ] 3/13 security
+- [ ] 3/14 security
+- [ ] 3/15 security
+- [ ] 3/16 security
+- [ ] 3/17 security
+- [ ] 3/18 security
+- [ ] 3/19 security
+- [ ] 3/20 security
+- [ ] 3/21 security
+- [ ] 3/22 storage
+- [ ] 3/23 storage
+- [ ] 3/24 networking
+- [ ] 3/25 networking
+- [ ] 3/26 networking
+- [ ] 3/27 networking
+- [ ] 3/28 networking
+- [ ] 3/29 networking
+- [ ] 3/30 networking
+- [ ] 3/30 design and install a kubernetes cluster 
