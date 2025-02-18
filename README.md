@@ -6,9 +6,9 @@
   - 공부한 내용은 그날 정리하기. 
 
 ## 학습 목표(수정 필요) 
-- [ ] 2/18 core concepts(cluster,etcd,kube-api,kube-controller manager, scheduler, kubelet, kube proxy)
-- [ ] 2/19 core concepts(pods,replicaset,deployment)
-- [ ] 2/20 core concepts(services)
+- [x] 2/18 core concepts(cluster,etcd,kube-api,kube-controller manager, scheduler, kubelet, kube proxy)
+- [x] 2/19 core concepts(pods)
+- [ ] 2/20 core concepts(replicaset, deployment, services)
 - [ ] 2/21 core concepts(namespaces/imeratives vs declarative)
 - [ ] 2/22 core concepts(kubectl apply, recap)
 - [ ] 2/23 core concepts(jump to schedulering) 
